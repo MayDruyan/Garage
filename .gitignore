@@ -1,0 +1,11 @@
+# Compiled class file
+**/obj
+**/bin
+*.csproj
+*.config
+
+# Visual Studio files
+/.vs
+
+# Log file
+*.log
